@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Card } from '../ui/Card';
+import { Card } from '../ui/card';
 import ReactMarkdown from 'react-markdown';
 import { Lightbulb, ChevronDown, ChevronUp } from 'lucide-react';
 

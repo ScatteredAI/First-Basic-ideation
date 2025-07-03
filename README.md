@@ -1,12 +1,20 @@
-# Investment AI Agent
+# Scattered AI Basic prototype
 
 This project is an AI-powered investment agent, consisting of a Python backend and a React/TypeScript frontend. The agent is designed to provide financial analysis and investment recommendations.
 
 ## Table of Contents
 
-- [Project Structure](#project-structure)
-- [Backend Setup and Run](#backend-setup-and-run)
-- [Frontend Setup and Run](#frontend-setup-and-run)
+- [Scattered AI Basic prototype](#scattered-ai-basic-prototype)
+  - [Table of Contents](#table-of-contents)
+  - [Project Structure](#project-structure)
+  - [Backend Setup and Run](#backend-setup-and-run)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Run](#run)
+  - [Frontend Setup and Run](#frontend-setup-and-run)
+    - [Prerequisites](#prerequisites-1)
+    - [Setup](#setup-1)
+    - [Run](#run-1)
 
 ## Project Structure
 

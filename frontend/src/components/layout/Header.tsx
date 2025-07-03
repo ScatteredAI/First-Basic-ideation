@@ -14,7 +14,7 @@ const Header = () => (
       </div>
     </div>
     <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-2">
-      Scattered AI Analyst Analyst
+      Scattered AI Analyst
     </h1>
     <p className="text-gray-600 max-w-md mx-auto">
       AI-powered stock analysis and investment recommendations

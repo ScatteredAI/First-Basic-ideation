@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = FastAPI(
-    title="AI Investment Analyst API",
+    title="Scattered AI Analyst Analyst API",
     description="API for analyzing stocks and generating investment recommendations",
     version="1.0.0",
     docs_url="/api/docs",
